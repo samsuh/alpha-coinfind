@@ -23,10 +23,12 @@ Blockchain-powered automation and AI-driven workflow agents site to help traders
 
 ### Fundraising Pitch (1-2 Minutes)
 We are building a decentralized, AI-enabled problem-solving network where intelligent workflow agents automate research, optimize decision-making, and coordinate human expertise to address global challenges. Our system integrates:
- ✅ AI-driven workflow automation to streamline problem discovery, data analysis, and solution modeling.
- ✅ Autonomous agents that assist with research, simulations, and project management.
- ✅ Blockchain-powered governance to ensure fair decision-making, funding allocation, and transparency.
-Here's how it works: Our system automates the entire problem-solving pipeline—from detecting urgent global challenges to optimizing funding distribution through smart contracts. Community members propose solutions, workflow agents assist with execution, and blockchain ensures accountability.
-With funding, we will scale our automation infrastructure, expand our decentralized expert network, and refine governance models to make high-impact decision-making more efficient, secure, and accessible. This is the future of collective intelligence—where automation, AI agents, and human ingenuity combine to solve problems at scale. Let’s build it together. 🚀
+ 1. AI-driven workflow automation to streamline problem discovery, data analysis, and solution modeling.
+ 2. Autonomous agents that assist with research, simulations, and project management.
+ 3. Blockchain-powered governance to ensure fair decision-making, funding allocation, and transparency.
 
+Here's how it works: Our system automates the entire problem-solving pipeline—from detecting urgent trade opportunities (market driven, liquidity driven, chart trends) and matching your personal investor profile into a recommended trade, with supporting rationale. You can also request feedback from community members, propose potential trades for hypothetical market scenarios, and workflow agents will assist with execution while logging their activity for later review and the rationale tree that led to their decisions, which can be later mined for successful patterns of activity.
 
+With funding, we will scale our automation infrastructure, expand our decentralized expert network, and refine governance models to make high-impact decision-making more efficient, secure, and accessible. This is a significant advancement in collective intelligence—where automation, integrating the best from AI agents and human ingenuity combined to solve problems at scale. 
+
+Identify an opportunity and FIND a solution with coinfind. 
