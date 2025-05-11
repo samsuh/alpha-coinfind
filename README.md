@@ -19,7 +19,8 @@ This is an initial implementation of the CoinFind.io site. The gist of this is t
 ## Ideation
 Note: this was thought through beforehand, but organized/formated through chatgpt to distill unstructured information from multiple sources. 
 ### Elevator Pitch (30 Seconds)
-Imagine a world where blockchain-powered automation and AI-driven workflow agents help humans collaborate seamlessly to solve global challenges. Our decentralized network leverages AI-enabled workflow automation to streamline data analysis, optimize resource allocation, and coordinate human expertise. Intelligent agents assist with research, simulations, and decision-making, while blockchain ensures transparency and fair governance through smart contracts. Together, we drive impact in industries like healthcare, climate change, and research—making problem-solving faster, fairer, and more scalable.
+Blockchain-powered automation and AI-driven workflow agents site to help traders make better informed decisions. This decentralized network streamline data analysis, optimizes recommended resource allocation, and coordinates human expertise and attention. Intelligent agents assist with research, simulations, and decision-making, while blockchain ensures transparency and fair governance through smart contracts. 
+
 ### Fundraising Pitch (1-2 Minutes)
 We are building a decentralized, AI-enabled problem-solving network where intelligent workflow agents automate research, optimize decision-making, and coordinate human expertise to address global challenges. Our system integrates:
  ✅ AI-driven workflow automation to streamline problem discovery, data analysis, and solution modeling.
