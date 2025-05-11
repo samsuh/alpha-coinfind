@@ -1,5 +1,5 @@
 # CoinFind.io
-This is an initial implementation of the CoinFind.io site
+This is an initial implementation of the CoinFind.io site. The gist of this is to have a site where the aggregation of community attention is focused to keep information on the site more updated than can practically be optimized for. More activity on the site will force re-renders to the site to happen more frequently, so many people visiting the /bitcoin endpoint of the site to check for updated bitcoin info would be more actively refreshed than a site with low visits. The aim of this project is to give end users the most updated information possible for a reasonable investment of time/money/engagement, and to do so in a neutral and blockchain-agnostic manner. Ideally, people would come here to get better quality relevant information and be empowered to make better trade decisions. 
 
 ## Scope
 - Implement core workflow
