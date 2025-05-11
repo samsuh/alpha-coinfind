@@ -17,7 +17,6 @@ This is an initial implementation of the CoinFind.io site. The gist of this is t
   - wallets/economics
 
 ## Ideation
-Note: this was thought through beforehand, but organized/formated through chatgpt to distill unstructured information from multiple sources. 
 ### Elevator Pitch (30 Seconds)
 Blockchain-powered automation and AI-driven workflow agents site to help traders make better informed decisions. This decentralized network streamline data analysis, optimizes recommended resource allocation, and coordinates human expertise and attention. Intelligent agents assist with research, simulations, and decision-making, while blockchain ensures transparency and fair governance through smart contracts. 
 
